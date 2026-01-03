@@ -5,15 +5,6 @@ import Image from "next/image";
 export function HeroSection() {
     return (
         <section className="relative flex items-center justify-center h-screen min-h-[600px] text-center px-4 overflow-hidden">
-             <Image
-                src="https://i.imgur.com/DAkxvQ8.png"
-                alt="Background"
-                fill
-                className="object-cover"
-                style={{ zIndex: -1 }}
-                priority
-            />
-            <div className="absolute inset-0 bg-black/50" />
             <div className="z-10 flex flex-col items-center">
                 <h1 className="font-headline text-4xl md:text-6xl uppercase tracking-widest text-white">
                     Precisão. Design. Porcelanato.

@@ -7,15 +7,20 @@ import { DifferentiatorsSection } from '@/components/sections/differentiators-se
 
 export default function Home() {
     return (
-        <div className="flex flex-col min-h-screen bg-background text-foreground">
-            <Header />
-            <main className="flex-grow">
-                <HeroSection />
-                <GallerySection />
-                <DifferentiatorsSection />
-            </main>
-            <Footer />
-            <WhatsAppButton />
+        <div 
+            className="flex flex-col min-h-screen bg-background text-foreground bg-cover bg-center bg-fixed"
+            style={{ backgroundImage: "url('https://i.imgur.com/DAkxvQ8.png')" }}
+        >
+            <div className="flex flex-col min-h-screen bg-black/50">
+                <Header />
+                <main className="flex-grow">
+                    <HeroSection />
+                    <GallerySection />
+                    <DifferentiatorsSection />
+                </main>
+                <Footer />
+                <WhatsAppButton />
+            </div>
         </div>
     );
 }
