@@ -13,7 +13,7 @@ export function HeroSection() {
                 style={{ zIndex: -1 }}
                 priority
             />
-            <div className="absolute inset-0 bg-black/50 z-0" />
+            <div className="absolute inset-0 bg-black/50" />
             <div className="z-10 flex flex-col items-center">
                 <h1 className="font-headline text-4xl md:text-6xl uppercase tracking-widest text-white">
                     Precisão. Design. Porcelanato.
