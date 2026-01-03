@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "gallery-1",
+      "description": "Minimalist bathroom with large format porcelain tiles.",
+      "imageUrl": "https://images.unsplash.com/photo-1765696300680-244e1d74a3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JjZWxhaW4lMjBiYXRocm9vbXxlbnwwfHx8fDE3Njc0NzAzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porcelain bathroom"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Close-up of a 45-degree cut on a porcelain countertop.",
+      "imageUrl": "https://images.unsplash.com/photo-1655145396905-034953001c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JjZWxhaW4lMjBjb3VudGVydG9wfGVufDB8fHx8MTc2NzQ3MDM0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porcelain countertop"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Luxury kitchen island with a seamless porcelain surface.",
+      "imageUrl": "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxraXRjaGVuJTIwaXNsYW5kfGVufDB8fHx8MTc2NzQ2NDQwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen island"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Elegant living room with a porcelain feature wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1592853601986-bd5e508347de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JjZWxhaW4lMjB3YWxsfGVufDB8fHx8MTc2NzQ3MDM0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porcelain wall"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Modern office space with polished porcelain flooring.",
+      "imageUrl": "https://images.unsplash.com/photo-1604589977707-d161da2edb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JjZWxhaW4lMjBmbG9vcnxlbnwwfHx8fDE3Njc0NzAzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porcelain floor"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Custom-made porcelain sink with invisible seams.",
+      "imageUrl": "https://images.unsplash.com/photo-1765696300680-244e1d74a3ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JjZWxhaW4lMjBzaW5rfGVufDB8fHx8MTc2NzQ3MDM0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porcelain sink"
+    }
+  ]
 }
