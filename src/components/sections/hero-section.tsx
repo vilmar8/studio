@@ -11,6 +11,7 @@ export function HeroSection() {
                 fill
                 className="object-cover"
                 style={{ zIndex: -1 }}
+                priority
             />
             <div className="absolute inset-0 bg-black/50 z-0" />
             <div className="z-10 flex flex-col items-center">
