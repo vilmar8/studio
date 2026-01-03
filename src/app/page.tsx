@@ -4,19 +4,21 @@ import WhatsAppButton from '@/components/whatsapp-button';
 import { HeroSection } from '@/components/sections/hero-section';
 import { GallerySection } from '@/components/sections/gallery-section';
 import { DifferentiatorsSection } from '@/components/sections/differentiators-section';
+import { InspirationsSection } from '@/components/sections/inspirations-section';
 
 export default function Home() {
     return (
         <div 
-            className="flex flex-col min-h-screen bg-background text-foreground bg-cover bg-center"
+            className="flex flex-col min-h-screen bg-background text-foreground bg-cover bg-scroll"
             style={{ backgroundImage: "url('https://i.imgur.com/DAkxvQ8.png')" }}
         >
-            <div className="flex flex-col min-h-screen bg-black/50">
+            <div className="flex flex-col min-h-screen bg-black/20">
                 <Header />
                 <main className="flex-grow">
                     <HeroSection />
                     <GallerySection />
                     <DifferentiatorsSection />
+                    <InspirationsSection />
                 </main>
                 <Footer />
                 <WhatsAppButton />
