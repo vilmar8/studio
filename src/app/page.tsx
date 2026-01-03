@@ -8,7 +8,7 @@ import { DifferentiatorsSection } from '@/components/sections/differentiators-se
 export default function Home() {
     return (
         <div 
-            className="flex flex-col min-h-screen bg-background text-foreground bg-cover bg-center bg-fixed"
+            className="flex flex-col min-h-screen bg-background text-foreground bg-cover bg-center"
             style={{ backgroundImage: "url('https://i.imgur.com/DAkxvQ8.png')" }}
         >
             <div className="flex flex-col min-h-screen bg-black/50">
