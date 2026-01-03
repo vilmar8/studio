@@ -74,4 +74,13 @@
         animation: move-lines 10s linear infinite;
         z-index: 0;
     }
+
+    @keyframes color-cycle {
+      0%, 100% { color: hsl(var(--primary)); }
+      50% { color: hsl(var(--foreground)); }
+    }
+
+    .animate-color-cycle {
+      animation: color-cycle 4s ease-in-out infinite;
+    }
 }
